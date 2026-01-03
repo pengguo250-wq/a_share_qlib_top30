@@ -1,0 +1,18 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# data (huge)
+data/
+*.parquet
+*.csv
+*.zip
+
+# qlib outputs (huge)
+*.bin
+*.pkl
+
+# editor/OS
+.vscode/
+.DS_Store
