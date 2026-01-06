@@ -29,3 +29,11 @@ mlruns/
 # temp repos
 _qlib_repo/
 home/
+
+.env
+outputs/
+logs/
+mlruns/
+data/
+_qlib_repo/
+home/
