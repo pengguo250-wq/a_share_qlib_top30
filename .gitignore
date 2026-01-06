@@ -16,3 +16,16 @@ data/
 # editor/OS
 .vscode/
 .DS_Store
+
+# local env & secrets
+.env
+
+# data & outputs
+data/
+outputs/
+logs/
+mlruns/
+
+# temp repos
+_qlib_repo/
+home/
